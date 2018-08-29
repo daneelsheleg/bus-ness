@@ -162,6 +162,7 @@ background: #FFBB42;
 	outline:none;
 }
 .submit{
+	margin-right: auto;
 	text-transform:uppercase;
 	margin-left:20px;
 	margin-top:35px;
